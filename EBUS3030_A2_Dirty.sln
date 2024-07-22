@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "EBUS3030_A2_Dirty", "EBUS3030_A2_Dirty\EBUS3030_A2_Dirty.dtproj", "{35D8F8DE-90A2-47C9-BF85-26E4078221FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35D8F8DE-90A2-47C9-BF85-26E4078221FC}.Development|Default.ActiveCfg = Development
+		{35D8F8DE-90A2-47C9-BF85-26E4078221FC}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85B4D354-95E4-4CD5-8764-F0BAD0EB1871}
+	EndGlobalSection
+EndGlobal
